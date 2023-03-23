@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+#secao-logo {
+    background-image: url('./images/bg-header-desktop.png');
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+
+.btn-ios {
+    background-color: hsl(171, 66%, 44%);
+}
+
+.btn-mac {
+    background-color: hsl(233, 100%, 69%);
+}
+
