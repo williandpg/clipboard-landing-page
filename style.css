@@ -1,24 +1,41 @@
+/*Parte de cima*/
+
 body {
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
+    color: hsl(201, 11%, 66%);
 }
-
+.titulo {
+    color: hsl(210, 10%, 33%);
+}
 #secao-logo {
     background-image: url('./images/bg-header-desktop.png');
 }
-
 button {
     padding: 10px 20px;
     border-radius: 20px;
     border: none;
     color: white;
 }
-
 .btn-ios {
     background-color: hsl(171, 66%, 44%);
+    margin: 10px;
 }
-
 .btn-mac {
     background-color: hsl(233, 100%, 69%);
+    margin: 10px;
 }
 
+
+
+
+
+
+
+
+
+
+
+ div {
+    border: 5px solid green;
+ }
